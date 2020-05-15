@@ -1,0 +1,327 @@
+{
+  "title": "¡Arma tu mejor tik tok y te diremos qué tan exitoso podrías ser!",
+  "logo": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Arma_tu_Tik_Tok.jpg",
+  "description": "¡En sólo 10 preguntas te decimos cuál de estos famosos tiene una personalidad parecida a la tuya!",
+  "style": "buzz",
+  "slug": "a-que-famoso-te-pareces-55",
+  "identificador": "1",
+  "preguntas": [{
+    "type": "image",
+    "pregunta": "1. Elige el tipo de contenido que harías",
+    "respuestas": [{
+      "text": "Comedia",
+      "image": "https://media.giphy.com/media/xTiTnCEAZ0Izo7PWes/giphy.gif",
+      "key": "A"
+    }, {
+      "text": "Baile",
+      "image": "https://media.giphy.com/media/pHYaWbspekVsTKRFQT/giphy.gif",
+      "key": "B"
+    }, {
+      "text": "LipSync",
+      "image": "https://media.giphy.com/media/Efm8inldExykTOkJCy/giphy.gif",
+      "key": "C"
+    }, {
+      "text": "Tutorial",
+      "image": "https://media.giphy.com/media/2vKBgkqIls4Hm/giphy.gif",
+      "key": "D"
+    }, {
+      "text": "Challenges",
+      "image": "https://media.giphy.com/media/XKSa6XxpmHh1NEBvvl/giphy.gif",
+      "key": "E"
+    }, {
+      "text": "Viajes",
+      "image": "https://media.giphy.com/media/aZg5FJVAHdB3G/giphy.gif",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": " Elige una canción:",
+    "respuestas": [{
+      "text": "Yummy yummy de Justin Bieber",
+      "image": "https://imgix.bustle.com/uploads/image/2020/1/4/7d816065-38b7-46ed-a467-6839b126082f-screenshot-461.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+      "key": "A"
+    }, {
+      "text": "Blanco de Jbalvin",
+      "image": "https://chapinradio.com/wp-content/uploads/2019/11/J-Balvin-blanco-700x525.jpg",
+      "key": "B"
+    }, {
+      "text": "Lottery de K Camp(Renegade)",
+      "image": "https://i0.wp.com/blakmusicfirst.fr/wp-content/uploads/2019/06/kcamplottery.jpg?fit=600%2C264",
+      "key": "C"
+    }, {
+      "text": "Candy de Doja Cat",
+      "image": "https://i0.wp.com/www.billboard.com/files/media/02-doja-cat-press-photo-2018-billboard-1548.jpg?w=900&ssl=1",
+      "key": "D"
+    }, {
+      "text": "Dance Monkey de Tones and I",
+      "image": "https://www.nme.com/wp-content/uploads/2019/12/tonesandi.jpg",
+      "key": "E"
+    }, {
+      "text": "Party de Paulo Londra",
+      "image": "https://cdn.eldoce.tv/sites/default/files/styles/site_nota_slider_preview/public/londra-nota.jpg?itok=Su7pnYeG",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "3. ¿Dónde grabarías? ",
+    "respuestas": [{
+      "text": "En la escuela",
+      "image": "https://www.soyembajador.mx/wp-content/uploads/2019/06/estudiar-preparatoria-en-estados-unidos-soy-embajador.png",
+      "key": "A"
+    }, {
+      "text": "En mi cuarto",
+      "image": "https://i.ytimg.com/vi/DzvOzFb_p10/maxresdefault.jpg",
+      "key": "B"
+    }, {
+      "text": "En un lugar random como el Oxxo",
+      "image": "https://elbigdata.mx/wp-content/uploads/2018/04/oxxo_segunda_caja.jpg",
+      "key": "C"
+    }, {
+      "text": "En alguna parada cool en un viaje",
+      "image": "https://i.pinimg.com/originals/af/fb/02/affb0265d71da0e7106ecdb4597fa882.jpg",
+      "key": "D"
+    }, {
+      "text": "En un espacio abierto con un paisaje padre de fondo",
+      "image": "https://viajesdeunchapin.com/wp-content/uploads/2019/10/seguro-de-viaje-aventura.jpg",
+      "key": "E"
+    }, {
+      "text": "En un lugar súper trendy como una cafetería o un parque de diversiones",
+      "image": "https://www.laguiadelvaron.com/wp-content/uploads/2019/09/atrapa-iphone-en-monta%C3%B1a-rusa-www.laguiadelvaron-4.jpg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "4. Si tuvieras que incluir algún pasos en tu Tik Tok",
+    "respuestas": [{
+      "text": "Helicopter",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/HELICOPTER.jpeg",
+      "key": "A"
+    }, {
+      "text": "Clock",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Clock.jpeg",
+      "key": "B"
+    }, {
+      "text": "Woah",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Woah.jpeg",
+      "key": "C"
+    }, {
+      "text": "Slow",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Slow.jpeg",
+      "key": "D"
+    }, {
+      "text": "Breath",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Breath.jpeg",
+      "key": "E"
+    }, {
+      "text": "Punch",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Punch.jpeg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "5 Elige un efecto",
+    "respuestas": [{
+      "text": "Un filtro cute de moda que oculte mis ojeras",
+      "image": "https://www.infobae.com/new-resizer/pNQyGIZ4Gk2L4KvS6rUtq92xfg4=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/07/25164513/Screenshot_20180725-154544_Tik-Tok.jpg",
+      "key": "A"
+    }, {
+      "text": "Pantalla verde",
+      "image": "https://animal.mx/wp-content/uploads/2019/08/tiktokrey.jpg",
+      "key": "B"
+    }, {
+      "text": "Un filtro que pueda usar con mi mascota",
+      "image": "https://www.elimparcial.com/__export/1573947178108/sites/elimparcial/img/2019/11/16/5dcfafee59bf5b7b2d4127c4_1.jpg_1359985867.jpg",
+      "key": "C"
+    }, {
+      "text": "Uno que sea un juego",
+      "image": "https://i.blogs.es/db36c5/filtro-insta-cara/450_1000.jpg",
+      "key": "D"
+    }, {
+      "text": "Uno que distorsione mi voz",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlub2wlmb4Sdgo4kMq5TmwsxJOcKzIycWjmqUzHvcXsISZTC8&s",
+      "key": "E"
+    }, {
+      "text": "Uno sobre verdad o reto",
+      "image": "https://p16.muscdn.com/obj/tos-maliva-p-0068/a49a6a95391643179b4e3aae258ccd89",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "Un tiktoker con el que te gustaría hacer un dueto o colaboración",
+    "respuestas": [{
+      "text": "Domelipa",
+      "image": "https://p16.muscdn.com/img/musically-maliva-obj/1655010669978630~c5_720x720.jpeg",
+      "key": "A"
+    }, {
+      "text": "Ilika Cruz",
+      "image": "https://www.famousbirthdays.com/headshots/ilika-cruz-2.jpg",
+      "key": "B"
+    }, {
+      "text": "Ralf",
+      "image": "http://p16.muscdn.com/img/musically-maliva-obj/1623600287034374~c5_1080x1080.jpeg",
+      "key": "C"
+    }, {
+      "text": "Xime Ponch",
+      "image": "https://www.famousbirthdays.com/faces/ponch-xime-image.jpg",
+      "key": "D"
+    }, {
+      "text": "Fer Vega",
+      "image": "https://www.famousbirthdays.com/headshots/fer-vega-2.jpg",
+      "key": "E"
+    }, {
+      "text": "Gerardo González",
+      "image": "https://p16.muscdn.com/img/musically-maliva-obj/1653018845434885~c5_720x720.jpeg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "¿A quién de ellos te llevas a pistear? ",
+    "respuestas": [{
+      "text": "Babo de Cartel de Santa",
+      "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/41a.jpg",
+      "key": "A"
+    }, {
+      "text": "Luiki Wiki",
+      "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/41b.jpg",
+      "key": "B"
+    }, {
+      "text": "Chetes",
+      "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/41c.jpg",
+      "key": "C"
+    }, {
+      "text": "Lupe Esparza",
+      "image": "https://media.giphy.com/media/3ohfFNSEtVCUnRMv6w/giphy.gif",
+      "key": "D"
+    }, {
+      "text": "Poncho De Nigris",
+      "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/41e.jpg",
+      "key": "E"
+    }, {
+      "text": "Franco Escamilla",
+      "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/41f.jpg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "7. El mejor trend de 2019",
+    "respuestas": [{
+      "text": "How I Walk",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/How_I_Walk.jpeg",
+      "key": "A"
+    }, {
+      "text": "Queso y tortilla",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/QUESO_Y_TORTILLA.jpg",
+      "key": "B"
+    }, {
+      "text": "Handswithchallenge",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Hands_with_challenge.jpg",
+      "key": "C"
+    }, {
+      "text": "Run for it",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Run_for_it.jpeg",
+      "key": "D"
+    }, {
+      "text": "Basketball challenge",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Bascketball_challenge.jpg",
+      "key": "E"
+    }, {
+      "text": "HeaTHERS",
+      "image": "https://adbuzz.s3-us-west-2.amazonaws.com/multimedia/Hands_with_challenge.jpg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "Una cuenta de Tik Tok para inspirarte",
+    "respuestas": [{
+      "text": "Will Smith",
+      "image": "https://p16.muscdn.com/img/musically-maliva-obj/1646315618666501~c5_720x720.jpeg",
+      "key": "A"
+    }, {
+      "text": "Netflix",
+      "image": "https://img.ecartelera.com/noticias/fotos/51900/51991/1.jpg",
+      "key": "B"
+    }, {
+      "text": "Lotterlive",
+      "image": "https://p16.muscdn.com/img/musically-maliva-obj/1630343678590981~c5_720x720.jpeg",
+      "key": "C"
+    }, {
+      "text": "Bien Tasty",
+      "image": "https://neceser.files.wordpress.com/2016/09/maxresdefault1.jpg?w=840",
+      "key": "D"
+    }, {
+      "text": "Animales haciendo cosas",
+      "image": "https://media.giphy.com/media/lnPEWRyHHQhKuFsNLo/giphy.gif",
+      "key": "E"
+    }, {
+      "text": "Flighthouse",
+      "image": "https://p16.muscdn.com/img/musically-maliva-obj/1637995080300549~c5_720x720.jpeg",
+      "key": "F"
+    }]
+  }, {
+    "type": "image",
+    "pregunta": "Tú dirías que lo más cool de Tik Tok es:",
+    "respuestas": [{
+      "text": "Los filtros",
+      "image": "https://media.giphy.com/media/2iktLAKlJwoYXfod5y/giphy.gif",
+      "key": "A"
+    }, {
+      "text": "Los timelapse",
+      "image": "https://media.giphy.com/media/QXJ8nCtEMZxZ3Payh0/giphy.gif",
+      "key": "B"
+    }, {
+      "text": "Los bailes",
+      "image": "https://media.giphy.com/media/ZZNmysoMgkxtLrxBfy/giphy.gif",
+      "key": "C"
+    }, {
+      "text": "La música",
+      "image": "https://media.giphy.com/media/ln0m5MMGfwWGvq9omG/giphy.gif",
+      "key": "D"
+    }, {
+      "text": "Que no está mi familia",
+      "image": "https://media.giphy.com/media/4PUeBuH3YOv9luEIc8/giphy.gif",
+      "key": "E"
+    }, {
+      "text": "Challenges",
+      "image": "https://media.giphy.com/media/riIy01d0arjd6/giphy.gif",
+      "key": "F"
+    }]
+  }],
+  "respuestas": {
+    "A": {
+      "name": "Tik Tok máster",
+      "description": "A¡Tiemblen Dome e Ilika! Aquí tenemos a una verdadera estrella de Tik Tok. Tu antigüedad en la app te respalda, conoces todas las herramientas y trucos de edición. En más de una ocasión has logrado que tus videos salgan en parati. Tu reinado como tiktoker podría comenzar en cualquier momento. ",
+      "image": "https://media.giphy.com/media/JozDxeg29UWDJCUOIt/giphy.gif",
+      "key": "A"
+    },
+    "C": {
+      "name": "Tik Tok máster",
+      "description": "A¡Tiemblen Dome e Ilika! Aquí tenemos a una verdadera estrella de Tik Tok. Tu antigüedad en la app te respalda, conoces todas las herramientas y trucos de edición. En más de una ocasión has logrado que tus videos salgan en parati. Tu reinado como tiktoker podría comenzar en cualquier momento. ",
+      "image": "https://media.giphy.com/media/JozDxeg29UWDJCUOIt/giphy.gif",
+      "key": "A"
+    },
+    "B": {
+      "name": "TikToker en ascenso",
+      "description": "Eres de los que entraron a la app por mero morbo, y acabaste súper enganchado, te sabes todos los pasos y hasta en más de una ocasión reconociste una canción por un trend. No le tengas miedo al éxito y acepta tu destino como tiktoker.",
+      "image": "https://media.giphy.com/media/QVIo5nQtEHhwO58sp9/giphy.gif",
+      "key": "B"
+    },
+    "E": {
+      "name": "TikToker en ascenso",
+      "description": "Eres de los que entraron a la app por mero morbo, y acabaste súper enganchado, te sabes todos los pasos y hasta en más de una ocasión reconociste una canción por un trend. No le tengas miedo al éxito y acepta tu destino como tiktoker.",
+      "image": "https://media.giphy.com/media/QVIo5nQtEHhwO58sp9/giphy.gif",
+      "key": "B"
+    },
+    "D": {
+      "name": "Tik Toker novato",
+      "description": "Aunque ya llevas bastante tiempo entrando a la app, te sabes los bailes y las canciones, aún te da penita subir tus videos porque qué oso. Sólo se vive una vez, deja de ocultar tus talentos y éntrale sin miedo a los trends, quizá encuentres aquí tu verdadera vocación. ",
+      "image": "https://media.giphy.com/media/kGjOGqBvyV6MNhJIEt/giphy.gif",
+      "key": "D"
+    },
+    "F": {
+      "name": "Tik Toker novato",
+      "description": "Aunque ya llevas bastante tiempo entrando a la app, te sabes los bailes y las canciones, aún te da penita subir tus videos porque qué oso. Sólo se vive una vez, deja de ocultar tus talentos y éntrale sin miedo a los trends, quizá encuentres aquí tu verdadera vocación. ",
+      "image": "https://media.giphy.com/media/kGjOGqBvyV6MNhJIEt/giphy.gif",
+      "key": "F"
+    }
+  }
+}
